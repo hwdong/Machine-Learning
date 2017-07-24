@@ -4,6 +4,10 @@
 
 林轩田的[机器学习基石](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)和[《机器学习技法》](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
+# articles
+
+[Kaggle的联合创始人兼CTO：八个简单学习机器学习技术的诀窍](https://zhuanlan.zhihu.com/p/26203811)
+
 # [density estimation](https://en.wikipedia.org/wiki/Density_estimation)
 
   [kernel mixture network](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html) 
